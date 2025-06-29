@@ -1,5 +1,5 @@
 
-// Register form logic
+     // Register form logic
 document.getElementById('registerForm').addEventListener('submit', function (e) {
   e.preventDefault();
   alert('User registered successfully! (Local only)');
